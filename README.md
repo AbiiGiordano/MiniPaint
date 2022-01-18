@@ -5,12 +5,12 @@ Versión simplificada del 'Paint' realizado a modo de práctica como último tra
 a una librería básica creada por el profesor. Se utilizó también un archivo 'png.py' el cual crea un archivo en dicho formato y una clase
 de TDA "pila", ambos otorgados por la cátedra.
 
-En la carpeta "imágenes" se observan ejemplos de su utilización, con dibujos que poseen distintas dimensiones, guardadas en formato ppm y png.
+En la carpeta "imágenes" se observan ejemplos de su utilización, con dibujos guardados en formato ppm y png.
 
 Características "Minipaint":
   - 7 colores predeterminados
   - Posibilidad de elegir un color, el cuál debe ser ingresado en código hexadecimal
-  - Opción para pintar con pincel y con balde de pintura
+  - Opción para pintar con pincel y con balde de pintura (haciendo clicks o manteniendo presionado el mouse)
   - Botón para "Borrar todo"
   - Opciones deshacer / rehacer
   - Dos formatos para guardar un dibujo: .ppm y .png
